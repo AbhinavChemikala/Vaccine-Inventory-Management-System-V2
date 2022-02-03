@@ -1,0 +1,13 @@
+
+ Name Of The Vaccine 	 Vaccine Code 	 Producing Country 	 Dosage Required 	 Population Covered 	 Total Vaccines Available(In Millions)
+
+   Pfizer 						      PF								USA 							2 									50.00 								 1.9000
+
+   Sinovac 						      SV								CHINA 						2 									18.80 								 1.2000
+
+   AstraZeneca 				      AZ								UK 								2 									10.00 								 1.1000
+
+   Sputnik V 					      SP								RUSSIA 						2 									10.00 								 0.9000
+
+   CanSinoBio 				      CS								CHINA 						1 									10.90 								 1.5000
+
